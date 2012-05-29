@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2012/05/29 14:41:11.192.pas,C:\Users\UsuarioX32\Documents\RAD Studio\Projects\Unit2.pas=C:\SDM\Pruebas\GitHub Connect\Unit2.pas</Transaction>
+    <Transaction>2012/05/29 14:41:11.192.dfm,C:\Users\UsuarioX32\Documents\RAD Studio\Projects\Unit2.dfm=C:\SDM\Pruebas\GitHub Connect\Unit2.dfm</Transaction>
+    <Transaction>2012/05/29 14:41:12.889.dproj,C:\Users\UsuarioX32\Documents\RAD Studio\Projects\Project1.dproj=C:\SDM\Pruebas\GitHub Connect\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
