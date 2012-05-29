@@ -10,7 +10,9 @@ type
   TForm2 = class(TForm)
     Edit1: TEdit;
     Button1: TButton;
+    Button2: TButton;
     procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -31,6 +33,13 @@ begin
 
 
     ShowMessage('Estamos en GitHub');
+
+end;
+
+procedure TForm2.Button2Click(Sender: TObject);
+begin
+
+    ShowMessage('Con la version 2.0');
 
 end;
 
