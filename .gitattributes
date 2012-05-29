@@ -13,6 +13,9 @@
 *.png 	binary
 *.gif 	binary
 
+*.dcu   binary
+*.dfm   binary
+
 *.cs text=auto diff=csharp 
 *.vb text=auto
 *.c text=auto
@@ -41,6 +44,7 @@
 *.fs text=auto
 *.fsx text=auto
 *.hs text=auto
+*.pas text=auto
 
 *.csproj text=auto merge=union 
 *.vbproj text=auto merge=union 
