@@ -10,6 +10,7 @@ type
   TForm2 = class(TForm)
     Edit1: TEdit;
     Button1: TButton;
+    procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -22,5 +23,12 @@ var
 implementation
 
 {$R *.dfm}
+
+procedure TForm2.Button1Click(Sender: TObject);
+begin
+
+    Edit1.Text := 'Hola';
+
+end;
 
 end.
