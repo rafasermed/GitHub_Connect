@@ -4,10 +4,12 @@ interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs;
+  Dialogs, StdCtrls;
 
 type
   TForm2 = class(TForm)
+    Edit1: TEdit;
+    Button1: TButton;
   private
     { Private declarations }
   public
